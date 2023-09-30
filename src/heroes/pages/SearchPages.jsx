@@ -3,6 +3,11 @@ import HeroCard from "../components/HeroCard";
 import { useForm } from "../../hooks/useForm";
 
 const SearchPages = () => {
+
+  const {} = useForm({
+    
+  })
+
   return (
     <>
       <h1>Search</h1>
